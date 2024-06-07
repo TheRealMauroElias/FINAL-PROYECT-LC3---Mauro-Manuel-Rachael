@@ -1,4 +1,4 @@
-# FINAL-PROYECT-LC3---Mauro-Manuel-Rachael
+# FINAL-PROJECT-LC3---Mauro-Manuel-Rachael
 Final Proyect: Manuel, Rachael, Mauro
 
 This is a program that aims to display the lowest, the highest, and the average score of 5 different tests. The program will also match each grade with its letter equivalent (0 - 50 = F, 60 - 69 = D, 70 - 79 = C, 80 - 89 = B, 90 - 100 = A). My team hopes that this program can be useful for teachers, students, or anyone else who wants to calculate grades. This program performs calculations and converts numbers to letters based on 5 numbers (exam results) that the user will enter at the beginning of the program. The intention is to help people who need to get information about their exams such as their average, the letter obtained, etc. Using this program, it will be much easier to do the task mentioned above. 
