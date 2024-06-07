@@ -12,4 +12,4 @@ The limitations are related to the number of grades you can work with and also l
 Regarding the interface, it is just a simple menu to give brief indications to the user of what to do, and the internet is not required for the program to work.
  
 We expect the program to be able to process the grades and display the results effectively / The program should be responsive and accurate / The subroutines should function correctly so that they can do the proper calculations / We want our program to handle data input and output in the correct way.
-
+.
